@@ -9,12 +9,12 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username` |
-| 1    | Github Profile Page Updated                 | https://github.com/`username`/`username` |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr` |
-| 1    | Create a New Branch                           | https://github.com/`username`/`repo-name`/tree/`new-branch-name` |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml` |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Github Account Created                      | https://github.com/Averhv |
+| 1    | Github Profile Page Updated                 | https://github.com/Averhv/Averhv |
+| 1    | Commit and Push Change from Command Line    | https://github.com/Averhv/ppchem/commit/d3ff76cc96f2335eb04cf96f2c19cc665359d320 |
+| 1    | Create a New Branch                           | https://github.com/Averhv/ppchem/tree/new-branch-name |
+| 1    | Create a conda environment                  | [env.yml](https://github.com/Averhv/ppchem/blob/main/env.yml) |
+| 1    | Fork a Repo                                 | https://github.com/Averhv/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
