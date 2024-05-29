@@ -15,8 +15,8 @@ my-links-for-milestones
 | 1    | Create a New Branch                           | https://github.com/Averhv/ppchem/tree/new-branch-name |
 | 1    | Create a conda environment                  | [env.yml](https://github.com/Averhv/ppchem/blob/main/env.yml) |
 | 1    | Fork a Repo                                 | https://github.com/Averhv/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
+| 1    | (Optional) Make a Pull Request              | https://github.com/Averhv/Chrfinder/pull/4 |
+| 2    | (Optional) Review a Pull Request            | https://github.com/Averhv/Chrfinder/pull/1#pullrequestreview-2009159299 |
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/Averhv/practical-programming-in-chemistry-milestones/pull/2 |
 
 **More milestones will be added throughout the course.**
